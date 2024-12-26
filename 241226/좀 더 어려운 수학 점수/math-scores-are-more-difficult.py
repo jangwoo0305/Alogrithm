@@ -3,11 +3,10 @@ c,d = map(int,input().split())
 
 if a > c:
     print("A")
-else:
+elif c < a:
     print("B")
 
-if a == c:
-    if b > d:
-        print("A")
-    else:
-        print("B")
+if a == c and b > d:
+    print("A")
+else:
+    print("B")
