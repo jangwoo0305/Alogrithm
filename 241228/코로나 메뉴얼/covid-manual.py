@@ -1,6 +1,9 @@
+people = []
+
 for _ in range(3):
     symptom, temperature = input().split()
     temperature = int(temperature)
+    people.append((symptom, temperature))
 
 emergency_count = 0
 
