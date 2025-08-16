@@ -1,5 +1,5 @@
-N = int(input())
+T = int(input())
 
-for i in range(N):
-    str = input()
-    print(str[0]+str[-1])
+for _ in range(T):
+    S = input()
+    print(S[0]+S[-1])   
