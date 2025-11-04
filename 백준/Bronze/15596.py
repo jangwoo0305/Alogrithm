@@ -1,10 +1,8 @@
-# def solve(a: list) -> list
+def solve(a: list) -> list
     
-#     for i in a:
-#         print(i)
-#     return 
+    cnt = 0
+    for i in a:
+        cnt += i
+    return cnt
 
-a = list(map(int,input().split()))
 
-for i in a:
-    print(i)
