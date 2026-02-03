@@ -1,0 +1,18 @@
+import sys
+input = sys.stdin.readline
+
+N ,M = map(int(input().split()))
+graph = []
+
+for _ in range(N):
+    graph.append(list(map(int,input())))
+
+def bfs(x,y):
+    queue =
+
+for i in range():
+
+
+
+
+
