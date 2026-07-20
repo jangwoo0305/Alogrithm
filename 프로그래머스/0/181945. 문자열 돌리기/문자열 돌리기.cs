@@ -1,0 +1,17 @@
+using System;
+
+public class Example
+{
+    public static void Main()
+    {
+        String s = Console.ReadLine();
+        Console.Clear();
+        
+        for (int i = 0; i < s.Length; i++)
+        {
+            
+            Console.WriteLine(s[i]);
+        }
+            
+    }
+}
