@@ -1,18 +1,16 @@
 using System;
-using System.Text;
 
-public class Solution
-{
+public class Solution {
     public string solution(string str1, string str2) 
     {
-        StringBuilder sb = new StringBuilder();
+        string answer = "";
         
         for (int i = 0; i < str1.Length; i++)
         {
-            sb.Append(str1[i]);
-            sb.Append(str2[i]);
+            answer += str1[i];
+            answer += str2[i];
         }
         
-        return sb.ToString();
+        return answer;
     }
 }
