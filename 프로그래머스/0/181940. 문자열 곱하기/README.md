@@ -1,10 +1,10 @@
 # [level 0] 문자열 곱하기 - 181940 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181940?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181940) 
 
 ### 성능 요약
 
-메모리: 30.8 MB, 시간: 0.40 ms
+메모리: 47.5 MB, 시간: 0.32 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 13일 11:26:53
+2026년 07월 29일 17:01:11
 
 ### 문제 설명
 
