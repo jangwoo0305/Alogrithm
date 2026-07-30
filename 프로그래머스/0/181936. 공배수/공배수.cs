@@ -1,7 +1,6 @@
 using System;
 
-public class Solution
-{
+public class Solution {
     public int solution(int number, int n, int m)
     {
         if(number % n == 0)
@@ -9,6 +8,5 @@ public class Solution
                 return 1;
         
         return 0;
-            
     }
 }
