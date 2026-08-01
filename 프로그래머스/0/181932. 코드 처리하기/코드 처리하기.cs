@@ -5,39 +5,17 @@ public class Solution {
         string ret = "";
         int mode = 0;
         
-        for(int i = 0; i < code.Length; i++)
+        for (int idx = 0; idx < code.Length; idx++)
         {
-            if (mode == 0)
+            if(code[idx] == '1')
             {
-                if(code[i] != '1')
-                {
-                    if(i % 2 == 0)
-                    {
-                        ret += code[i];
-                    }
-                }
-                else
-                {
-                    mode = 1;
-                }
+                mode = 1 - mode;
             }
-            else
+            else if(idx % 2 == mode)
             {
-                if(code[i] != '1')
-                {
-                    if(i % 2 != 0)
-                        ret += code[i];
-                }
-                else
-                {
-                    mode =  0;
-                }
+                ret += code[idx];
             }
         }
-                
-        if (ret == "")
-            return "EMPTY";
-        
-        return ret;
+        return ret == "" ? "EMPTY" : ret;
     }
 }
