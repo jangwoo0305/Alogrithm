@@ -4,12 +4,12 @@ public class Solution
 {
     public int solution(int n)
     {   
-        if (n % 2 == 1)
+        if(n % 2 != 0)
         {
             int sum = 0;
-            for (int i = 0; i <= n; i++)
+            for (int i = 0; i <= n; i ++)
             {
-                if (i % 2 == 1)
+                if(i % 2 != 0)
                     sum += i;
             }
         return sum;
@@ -19,10 +19,10 @@ public class Solution
             int sum = 0;
             for (int i = 0; i <= n; i++)
             {
-                if (i % 2 == 0)
+                if(i % 2 == 0)
                     sum += i * i;
             }
-        return sum;
-        }   
+            return sum;
+        }
     }
 }
