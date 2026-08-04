@@ -12,8 +12,7 @@ public class Solution
             a += num_list[idx];
             b *= num_list[idx];
         }
-        int a2 = a * a;
 
-        return b < a2 ? 1 : 0;
+        return b < a*a ? 1 : 0;
     }
 }
