@@ -1,10 +1,10 @@
 # [level 0] 수열과 구간 쿼리 4 - 181922 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181922) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181922?language=csharp) 
 
 ### 성능 요약
 
-메모리: 46.6 MB, 시간: 0.91 ms
+메모리: 46.9 MB, 시간: 0.94 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 08월 11일 09:38:12
+2026년 08월 15일 21:43:15
 
 ### 문제 설명
 
