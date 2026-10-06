@@ -14,9 +14,22 @@ public class Study
         }
         
         Array.Sort(studyTimes, (a, b) => a.End.CompareTo(b.End));
+
+        // ---
         
-        
-        
-        
+        int lastEnd = 0;
+        int Count = 0;
+
+        for (int i = 0; i < N; i++)
+        {
+            if (studyTimes[i].Start >= lastEnd)
+            {
+                Count++;
+                lastEnd = studyTimes[i].End;
+            }
+        }
+
+        Console.WriteLine(Count);
+
     }
 }
