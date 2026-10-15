@@ -20,10 +20,10 @@ public class RobotShortestPath
         
         // ---
 
-        int startRow = -1;
-        int startCol = -1;
-        int goalRow = -1;
-        int goalCol = -1;
+        int startRow = -1; // 시작 행, 아직 못 찾았으니 -1로 초기 설정 
+        int startCol = -1; // 시작 열, 아직 못 찾았으니 -1로 초기 설정 
+        int goalRow = -1; // 목표 행, 아직 못 찾았으니 -1로 초기 설정 
+        int goalCol = -1; //목표 열, 아직 못 찾았으니 -1로 초기 설정 
 
         for (int row = 0; row < R; row++)
         {
@@ -41,6 +41,7 @@ public class RobotShortestPath
                 }
             }
         }
+        
         int[,] distances = new int[R,C];
 
         for (int row = 0; row < R; row++)
