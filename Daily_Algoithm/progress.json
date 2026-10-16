@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "repository": "jangwoo0305/Alogrithm",
+  "defaultBranch": "main",
+  "timezone": "Asia/Seoul",
+  "completionCommand": {
+    "exactStandaloneText": "완료",
+    "acceptedInThread": "current Codex automation thread"
+  },
+  "currentProblem": {
+    "date": "2026-10-16",
+    "title": "교대하는 신호",
+    "folder": "Daily_Algoithm/2026-10-16_교대하는 신호",
+    "statementPath": "Daily_Algoithm/2026-10-16_교대하는 신호/교대하는 신호.md",
+    "sourcePath": "Daily_Algoithm/2026-10-16_교대하는 신호/AlternatingSignals.cs",
+    "projectPath": "Daily_Algoithm/2026-10-16_교대하는 신호/AlternatingSignals.csproj",
+    "status": "ISSUED",
+    "issuedAt": "2026-10-16T11:31:58+09:00",
+    "publicationCommitShas": [
+      "f4f10dd31a9042ae63350c0f78936a4bb836144f",
+      "077d695124ca0be22c27542336d59af62d4b3b86",
+      "1898a616a7afbafb6313ff4f11fa21e5211ee6e5",
+      "fdc231437ee75eab5d738861a658b4f1ade9a081",
+      "7cd42d52f8dc83d3080604279ada3962f6f8bf4c"
+    ],
+    "completion": null
+  },
+  "completedProblems": [
+    {
+      "date": "2026-10-12",
+      "title": "가장 붐빈 연속 기간",
+      "status": "COMPLETED",
+      "evidence": "legacy import: non-empty source on main and prior workflow record"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "중복 카드와 빠진 카드",
+      "status": "COMPLETED",
+      "evidence": "legacy import: non-empty source on main and prior workflow record"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "회전하는 전광판",
+      "status": "COMPLETED",
+      "evidence": "legacy import: non-empty source on main and prior workflow record"
+    }
+  ],
+  "policy": {
+    "nextProblemOnlyAfterVerifiedCompletion": true,
+    "oneProblemPerRun": true,
+    "oneCommitPerNewProblem": true,
+    "preserveExistingFilesAndHistory": true,
+    "githubActionsAllowed": false,
+    "paidApisAllowed": false
+  }
+}
