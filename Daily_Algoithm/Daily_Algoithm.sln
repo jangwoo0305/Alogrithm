@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-13_중복 카드와
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-14_회전하는 전광판", "2026-10-14_회전하는 전광판\RotatingDisplay.csproj", "{7F86C8B3-0B22-4C4A-9F4B-28B9DA013B2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-16_교대하는 신호", "2026-10-16_교대하는 신호\AlternatingSignals.csproj", "{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,18 @@ Global
 		{7F86C8B3-0B22-4C4A-9F4B-28B9DA013B2F}.Release|x64.Build.0 = Release|Any CPU
 		{7F86C8B3-0B22-4C4A-9F4B-28B9DA013B2F}.Release|x86.ActiveCfg = Release|Any CPU
 		{7F86C8B3-0B22-4C4A-9F4B-28B9DA013B2F}.Release|x86.Build.0 = Release|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Debug|x64.Build.0 = Debug|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Debug|x86.Build.0 = Debug|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Release|x64.ActiveCfg = Release|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Release|x64.Build.0 = Release|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Release|x86.ActiveCfg = Release|Any CPU
+		{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
