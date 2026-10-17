@@ -46,6 +46,6 @@
                 }
             }
         }
-
+        Console.WriteLine($"{count} {firstPos}");
     }
 }
