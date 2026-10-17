@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-14_회전하는 전
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-16_교대하는 신호", "2026-10-16_교대하는 신호\AlternatingSignals.csproj", "{B07E8CB4-315D-4BB7-9A32-8B09B77B61A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-17_균형 잡힌 보관함", "2026-10-17_균형 잡힌 보관함\BalancedLockers.csproj", "{BEF69E15-C720-4B23-9E58-D2E11A817C64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Debug|x64.Build.0 = Debug|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Debug|x86.Build.0 = Debug|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Release|x64.ActiveCfg = Release|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Release|x64.Build.0 = Release|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Release|x86.ActiveCfg = Release|Any CPU
+		{BEF69E15-C720-4B23-9E58-D2E11A817C64}.Release|x86.Build.0 = Release|Any CPU
 		{04C9D0AF-D877-4017-9E28-49A44FDD4277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{04C9D0AF-D877-4017-9E28-49A44FDD4277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04C9D0AF-D877-4017-9E28-49A44FDD4277}.Debug|x64.ActiveCfg = Debug|Any CPU

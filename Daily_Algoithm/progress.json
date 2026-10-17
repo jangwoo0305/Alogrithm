@@ -8,21 +8,14 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-16",
-    "title": "교대하는 신호",
-    "folder": "Daily_Algoithm/2026-10-16_교대하는 신호",
-    "statementPath": "Daily_Algoithm/2026-10-16_교대하는 신호/교대하는 신호.md",
-    "sourcePath": "Daily_Algoithm/2026-10-16_교대하는 신호/AlternatingSignals.cs",
-    "projectPath": "Daily_Algoithm/2026-10-16_교대하는 신호/AlternatingSignals.csproj",
+    "date": "2026-10-17",
+    "title": "균형 잡힌 보관함",
+    "folder": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함",
+    "statementPath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/균형 잡힌 보관함.md",
+    "sourcePath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/BalancedLockers.cs",
+    "projectPath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/BalancedLockers.csproj",
     "status": "ISSUED",
-    "issuedAt": "2026-10-16T11:31:58+09:00",
-    "publicationCommitShas": [
-      "f4f10dd31a9042ae63350c0f78936a4bb836144f",
-      "077d695124ca0be22c27542336d59af62d4b3b86",
-      "1898a616a7afbafb6313ff4f11fa21e5211ee6e5",
-      "fdc231437ee75eab5d738861a658b4f1ade9a081",
-      "7cd42d52f8dc83d3080604279ada3962f6f8bf4c"
-    ],
+    "issuedAt": "2026-10-17T09:02:57+09:00",
     "completion": null
   },
   "completedProblems": [
@@ -43,6 +36,36 @@
       "title": "회전하는 전광판",
       "status": "COMPLETED",
       "evidence": "legacy import: non-empty source on main and prior workflow record"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "교대하는 신호",
+      "folder": "Daily_Algoithm/2026-10-16_교대하는 신호",
+      "statementPath": "Daily_Algoithm/2026-10-16_교대하는 신호/교대하는 신호.md",
+      "sourcePath": "Daily_Algoithm/2026-10-16_교대하는 신호/AlternatingSignals.cs",
+      "projectPath": "Daily_Algoithm/2026-10-16_교대하는 신호/AlternatingSignals.csproj",
+      "status": "COMPLETED",
+      "issuedAt": "2026-10-16T11:31:58+09:00",
+      "publicationCommitShas": [
+        "f4f10dd31a9042ae63350c0f78936a4bb836144f",
+        "077d695124ca0be22c27542336d59af62d4b3b86",
+        "1898a616a7afbafb6313ff4f11fa21e5211ee6e5",
+        "fdc231437ee75eab5d738861a658b4f1ade9a081",
+        "7cd42d52f8dc83d3080604279ada3962f6f8bf4c"
+      ],
+      "completion": {
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "messageId": null,
+        "messageRole": "user",
+        "messageText": "완료",
+        "messageAt": "2026-10-16T16:42:45+09:00",
+        "messageEvidenceSource": "Original standalone user turn visible in the connected conversation; timestamp supplied with that turn's submission metadata.",
+        "sourcePath": "Daily_Algoithm/2026-10-16_교대하는 신호/AlternatingSignals.cs",
+        "sourceBlobSha": "3f29e38b20886229212213771c0f0350cbc53d3e",
+        "sourceBytes": 1431,
+        "verifiedMainHead": "05842ec779845002e0f093349b18751bc5568d4c",
+        "verifiedAt": "2026-10-17T09:02:57+09:00"
+      }
     }
   ],
   "policy": {
@@ -52,5 +75,11 @@
     "preserveExistingFilesAndHistory": true,
     "githubActionsAllowed": false,
     "paidApisAllowed": false
+  },
+  "workflow": {
+    "lastIssuedLocalDate": "2026-10-17",
+    "category": "배열",
+    "categoryEffectiveThrough": "2026-10-18",
+    "lastCategoryDecisionWeek": null
   }
 }
