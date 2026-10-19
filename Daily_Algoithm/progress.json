@@ -8,14 +8,14 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-17",
-    "title": "균형 잡힌 보관함",
-    "folder": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함",
-    "statementPath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/균형 잡힌 보관함.md",
-    "sourcePath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/BalancedLockers.cs",
-    "projectPath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/BalancedLockers.csproj",
+    "date": "2026-10-20",
+    "title": "한 번만 방문한 손님",
+    "folder": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님",
+    "statementPath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/한 번만 방문한 손님.md",
+    "sourcePath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/SingleVisitGuests.cs",
+    "projectPath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/SingleVisitGuests.csproj",
     "status": "ISSUED",
-    "issuedAt": "2026-10-17T09:02:57+09:00",
+    "issuedAt": "2026-10-20T08:59:21+09:00",
     "completion": null
   },
   "completedProblems": [
@@ -66,6 +66,29 @@
         "verifiedMainHead": "05842ec779845002e0f093349b18751bc5568d4c",
         "verifiedAt": "2026-10-17T09:02:57+09:00"
       }
+    },
+    {
+      "date": "2026-10-17",
+      "title": "균형 잡힌 보관함",
+      "folder": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함",
+      "statementPath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/균형 잡힌 보관함.md",
+      "sourcePath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/BalancedLockers.cs",
+      "projectPath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/BalancedLockers.csproj",
+      "status": "COMPLETED",
+      "issuedAt": "2026-10-17T09:02:57+09:00",
+      "completion": {
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "messageId": null,
+        "messageRole": "user",
+        "messageText": "완료",
+        "messageAt": "2026-10-19T00:19:18+09:00",
+        "messageEvidenceSource": "Original standalone user turn and its associated submission timestamp visible in the connected conversation.",
+        "sourcePath": "Daily_Algoithm/2026-10-17_균형 잡힌 보관함/BalancedLockers.cs",
+        "sourceBlobSha": "35b955a78f06b98688538065a69c7d5720181aaf",
+        "sourceBytes": 1048,
+        "verifiedMainHead": "fd44555d925f8fd3c374beca4e6d068a0b33a1dc",
+        "verifiedAt": "2026-10-20T08:59:21+09:00"
+      }
     }
   ],
   "policy": {
@@ -77,9 +100,30 @@
     "paidApisAllowed": false
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-10-17",
+    "lastIssuedLocalDate": "2026-10-20",
     "category": "배열",
-    "categoryEffectiveThrough": "2026-10-18",
-    "lastCategoryDecisionWeek": null
+    "categoryEffectiveThrough": "2026-10-25",
+    "lastCategoryDecisionWeek": "2026-10-19",
+    "categoryDecisions": [
+      {
+        "weekStart": "2026-10-19",
+        "category": "배열",
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "question": {
+          "messageId": null,
+          "messageRole": "assistant",
+          "text": "이번 주(10/19~10/25)에도 배열을 유지할까요, 다른 카테고리로 바꿀까요?",
+          "date": "2026-10-19",
+          "messageAt": null
+        },
+        "answer": {
+          "messageId": null,
+          "messageRole": "user",
+          "messageText": "유지",
+          "messageAt": "2026-10-19T11:34:51+09:00"
+        },
+        "evidenceSource": "Original category question and standalone user answer visible in the connected conversation; no question message timestamp was supplied."
+      }
+    ]
   }
 }
