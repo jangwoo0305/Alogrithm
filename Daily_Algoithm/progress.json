@@ -132,7 +132,25 @@
     "oneCommitPerNewProblem": true,
     "preserveExistingFilesAndHistory": true,
     "githubActionsAllowed": false,
-    "paidApisAllowed": false
+    "paidApisAllowed": false,
+    "completionAcceptance": {
+      "version": 2,
+      "required": [
+        "exactStandaloneUserCompletion",
+        "currentProblemBinding",
+        "nonemptySourceOnMain"
+      ],
+      "optional": [
+        "messageAt",
+        "messageId",
+        "conversationId"
+      ],
+      "missingMetadata": "Record null; use directly observed message order to bind the command to the current issued problem. Do not infer a timestamp.",
+      "durableEvidence": "A valid problem-bound completion receipt or matching COMPLETED record with exact user completion and source evidence is sufficient; scheduled runs must not require the original message again.",
+      "completedState": "COMPLETED is terminal for that problem; verify matching evidence and current nonempty source, then advance without duplicating history.",
+      "receiptWrite": "On direct completion, persist a completion-only atomic commit immediately. On scheduled issuance, advance state and create exactly one new problem in one separate atomic commit.",
+      "blocking": "Missing optional metadata alone must not block advancement, request repeated completion, or disable the task."
+    }
   },
   "workflow": {
     "lastIssuedLocalDate": "2026-10-20",
@@ -160,5 +178,24 @@
         "evidenceSource": "Original category question and standalone user answer visible in the connected conversation; no question message timestamp was supplied."
       }
     ]
-  }
+  },
+  "completionReceipts": [
+    {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님",
+      "sourcePath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/SingleVisitGuests.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user completion message in this connected conversation after the 2026-10-21 blocked-run notice; before the user's request to unify completion acceptance.",
+      "observedAt": "2026-10-21T00:52:09Z",
+      "observedAtMeaning": "Time this verification was performed, not the user's message creation time.",
+      "sourceBlobSha": "f97b58df4ae6909a9e683bf4a1380e362b0724ed",
+      "sourceBytes": 958,
+      "verifiedMainHead": "72ad8fb75a345d464e7c6478668bc8fc7dde5d55"
+    }
+  ]
 }
