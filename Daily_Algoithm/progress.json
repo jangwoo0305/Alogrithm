@@ -8,27 +8,20 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-20",
-    "title": "한 번만 방문한 손님",
-    "folder": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님",
-    "statementPath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/한 번만 방문한 손님.md",
-    "sourcePath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/SingleVisitGuests.cs",
-    "projectPath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/SingleVisitGuests.csproj",
-    "status": "COMPLETED",
-    "issuedAt": "2026-10-20T08:59:21+09:00",
-    "completion": {
-      "conversationId": null,
-      "messageId": null,
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageAt": null,
-      "messageEvidenceSource": "Exact standalone user message in this conversation; message timestamp and conversation ID unavailable.",
-      "sourcePath": "Daily_Algoithm/2026-10-20_한 번만 방문한 손님/SingleVisitGuests.cs",
-      "sourceBlobSha": "f97b58df4ae6909a9e683bf4a1380e362b0724ed",
-      "sourceBytes": 958,
-      "verifiedMainHead": "f8f40a467f02b8e63609e084c45530757502aadb",
-      "verifiedAt": "2026-10-20"
-    }
+    "date": "2026-10-22",
+    "title": "K번째수",
+    "folder": "Daily_Algoithm/2026-10-22_K번째수",
+    "statementPath": "Daily_Algoithm/2026-10-22_K번째수/K번째수.md",
+    "sourcePath": "Daily_Algoithm/2026-10-22_K번째수/KthNumber.cs",
+    "projectPath": "Daily_Algoithm/2026-10-22_K번째수/KthNumber.csproj",
+    "source": {
+      "platform": "프로그래머스",
+      "problemId": "42748",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42748"
+    },
+    "status": "ISSUED",
+    "issuedAt": "2026-10-22T08:58:36+09:00",
+    "completion": null
   },
   "completedProblems": [
     {
@@ -153,7 +146,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-10-20",
+    "lastIssuedLocalDate": "2026-10-22",
     "category": "배열",
     "categoryEffectiveThrough": "2026-10-25",
     "lastCategoryDecisionWeek": "2026-10-19",
