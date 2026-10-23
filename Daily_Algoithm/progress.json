@@ -8,36 +8,20 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-22",
-    "title": "K번째수",
-    "folder": "Daily_Algoithm/2026-10-22_K번째수",
-    "statementPath": "Daily_Algoithm/2026-10-22_K번째수/K번째수.md",
-    "sourcePath": "Daily_Algoithm/2026-10-22_K번째수/KthNumber.cs",
-    "projectPath": "Daily_Algoithm/2026-10-22_K번째수/KthNumber.csproj",
+    "date": "2026-10-23",
+    "title": "두 개 뽑아서 더하기",
+    "folder": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기",
+    "statementPath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/두 개 뽑아서 더하기.md",
+    "sourcePath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.cs",
+    "projectPath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "42748",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42748"
+      "problemId": "68644",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/68644"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-10-22T08:58:36+09:00",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-10-22_K번째수",
-      "sourcePath": "Daily_Algoithm/2026-10-22_K번째수/KthNumber.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user completion after the K번째수 issue and the user's decision to use the official function submission format.",
-      "observedAt": "2026-10-22T07:49:15Z",
-      "observedAtMeaning": "Verification time, not the user's message creation time.",
-      "sourceBlobSha": "7c7ae2fa31109085212c3c16438812c9454091ca",
-      "sourceBytes": 1072,
-      "verifiedMainHead": "e429b2f4c04bd15a98a39c3178d0e160aae62a51"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-10-23T00:02:00.000Z",
+    "completion": null
   },
   "completedProblems": [
     {
@@ -194,7 +178,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-10-22",
+    "lastIssuedLocalDate": "2026-10-23",
     "category": "배열",
     "categoryEffectiveThrough": "2026-10-25",
     "lastCategoryDecisionWeek": "2026-10-19",
