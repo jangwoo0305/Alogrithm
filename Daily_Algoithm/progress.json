@@ -19,9 +19,25 @@
       "problemId": "68644",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/68644"
     },
-    "status": "ISSUED",
+    "status": "COMPLETED",
     "issuedAt": "2026-10-23T00:02:00.000Z",
-    "completion": null
+    "completion": {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기",
+      "sourcePath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user completion after the PairSums issue and the notice that the first completion attempt had an empty source; latest main now contains the user's solution.",
+      "observedAt": "2026-10-23T07:22:35Z",
+      "observedAtMeaning": "Verification time, not the user's message creation time.",
+      "sourceBlobSha": "96f7e822d227b1bdeab172c387b3ab77a2f2e978",
+      "sourceBytes": 1445,
+      "verifiedMainHead": "4da012def2e358c2058feaf4d16a3f351cff4a48"
+    }
   },
   "completedProblems": [
     {
@@ -149,6 +165,38 @@
         "sourceBytes": 1072,
         "verifiedMainHead": "e429b2f4c04bd15a98a39c3178d0e160aae62a51"
       }
+    },
+    {
+      "date": "2026-10-23",
+      "title": "두 개 뽑아서 더하기",
+      "folder": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기",
+      "statementPath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/두 개 뽑아서 더하기.md",
+      "sourcePath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.cs",
+      "projectPath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.csproj",
+      "source": {
+        "platform": "프로그래머스",
+        "problemId": "68644",
+        "url": "https://school.programmers.co.kr/learn/courses/30/lessons/68644"
+      },
+      "status": "COMPLETED",
+      "issuedAt": "2026-10-23T00:02:00.000Z",
+      "completion": {
+        "policyVersion": 2,
+        "problemId": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기",
+        "sourcePath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.cs",
+        "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+        "messageRole": "user",
+        "messageText": "완료",
+        "messageId": null,
+        "messageAt": null,
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "messageOrderEvidence": "Direct standalone user completion after the PairSums issue and the notice that the first completion attempt had an empty source; latest main now contains the user's solution.",
+        "observedAt": "2026-10-23T07:22:35Z",
+        "observedAtMeaning": "Verification time, not the user's message creation time.",
+        "sourceBlobSha": "96f7e822d227b1bdeab172c387b3ab77a2f2e978",
+        "sourceBytes": 1445,
+        "verifiedMainHead": "4da012def2e358c2058feaf4d16a3f351cff4a48"
+      }
     }
   ],
   "policy": {
@@ -238,6 +286,23 @@
       "sourceBlobSha": "7c7ae2fa31109085212c3c16438812c9454091ca",
       "sourceBytes": 1072,
       "verifiedMainHead": "e429b2f4c04bd15a98a39c3178d0e160aae62a51"
+    },
+    {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기",
+      "sourcePath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user completion after the PairSums issue and the notice that the first completion attempt had an empty source; latest main now contains the user's solution.",
+      "observedAt": "2026-10-23T07:22:35Z",
+      "observedAtMeaning": "Verification time, not the user's message creation time.",
+      "sourceBlobSha": "96f7e822d227b1bdeab172c387b3ab77a2f2e978",
+      "sourceBytes": 1445,
+      "verifiedMainHead": "4da012def2e358c2058feaf4d16a3f351cff4a48"
     }
   ]
 }
