@@ -19,9 +19,25 @@
       "problemId": "12910",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12910"
     },
-    "status": "ISSUED",
+    "status": "COMPLETED",
     "issuedAt": "2026-10-24T00:03:08Z",
-    "completion": null
+    "completion": {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열",
+      "sourcePath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/DivisibleNumbers.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user completion in the connected conversation after the 2026-10-24 DivisibleNumbers problem was issued.",
+      "observedAt": "2026-10-24T07:54:55Z",
+      "observedAtMeaning": "Verification time, not the user's message creation time.",
+      "sourceBlobSha": "65ad05bad76e51d1113ed147ccb92e9a6c7f233e",
+      "sourceBytes": 662,
+      "verifiedMainHead": "767a63b07fb2f32042f52c22df00c1fdee5050c6"
+    }
   },
   "completedProblems": [
     {
@@ -181,6 +197,38 @@
         "sourceBytes": 1445,
         "verifiedMainHead": "4da012def2e358c2058feaf4d16a3f351cff4a48"
       }
+    },
+    {
+      "date": "2026-10-24",
+      "title": "나누어 떨어지는 숫자 배열",
+      "folder": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열",
+      "statementPath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/나누어 떨어지는 숫자 배열.md",
+      "sourcePath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/DivisibleNumbers.cs",
+      "projectPath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/DivisibleNumbers.csproj",
+      "source": {
+        "platform": "프로그래머스",
+        "problemId": "12910",
+        "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12910"
+      },
+      "status": "COMPLETED",
+      "issuedAt": "2026-10-24T00:03:08Z",
+      "completion": {
+        "policyVersion": 2,
+        "problemId": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열",
+        "sourcePath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/DivisibleNumbers.cs",
+        "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+        "messageRole": "user",
+        "messageText": "완료",
+        "messageId": null,
+        "messageAt": null,
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "messageOrderEvidence": "Direct standalone user completion in the connected conversation after the 2026-10-24 DivisibleNumbers problem was issued.",
+        "observedAt": "2026-10-24T07:54:55Z",
+        "observedAtMeaning": "Verification time, not the user's message creation time.",
+        "sourceBlobSha": "65ad05bad76e51d1113ed147ccb92e9a6c7f233e",
+        "sourceBytes": 662,
+        "verifiedMainHead": "767a63b07fb2f32042f52c22df00c1fdee5050c6"
+      }
     }
   ],
   "policy": {
@@ -287,6 +335,23 @@
       "sourceBlobSha": "96f7e822d227b1bdeab172c387b3ab77a2f2e978",
       "sourceBytes": 1445,
       "verifiedMainHead": "4da012def2e358c2058feaf4d16a3f351cff4a48"
+    },
+    {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열",
+      "sourcePath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/DivisibleNumbers.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user completion in the connected conversation after the 2026-10-24 DivisibleNumbers problem was issued.",
+      "observedAt": "2026-10-24T07:54:55Z",
+      "observedAtMeaning": "Verification time, not the user's message creation time.",
+      "sourceBlobSha": "65ad05bad76e51d1113ed147ccb92e9a6c7f233e",
+      "sourceBytes": 662,
+      "verifiedMainHead": "767a63b07fb2f32042f52c22df00c1fdee5050c6"
     }
   ]
 }
