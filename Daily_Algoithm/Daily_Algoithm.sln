@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-22_K번째수", "20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-23_두 개 뽑아서 더하기", "2026-10-23_두 개 뽑아서 더하기\PairSums.csproj", "{A2D87774-F91D-48DE-B274-CA951A671053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-24_나누어 떨어지는 숫자 배열", "2026-10-24_나누어 떨어지는 숫자 배열\DivisibleNumbers.csproj", "{D4F07037-4C12-4C5A-9D7F-621924B5CC41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|x64.Build.0 = Debug|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|x86.Build.0 = Debug|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Release|x64.ActiveCfg = Release|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Release|x64.Build.0 = Release|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Release|x86.ActiveCfg = Release|Any CPU
+		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Release|x86.Build.0 = Release|Any CPU
 		{A2D87774-F91D-48DE-B274-CA951A671053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A2D87774-F91D-48DE-B274-CA951A671053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D87774-F91D-48DE-B274-CA951A671053}.Debug|x64.ActiveCfg = Debug|Any CPU

@@ -8,36 +8,20 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-23",
-    "title": "두 개 뽑아서 더하기",
-    "folder": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기",
-    "statementPath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/두 개 뽑아서 더하기.md",
-    "sourcePath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.cs",
-    "projectPath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.csproj",
+    "date": "2026-10-24",
+    "title": "나누어 떨어지는 숫자 배열",
+    "folder": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열",
+    "statementPath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/나누어 떨어지는 숫자 배열.md",
+    "sourcePath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/DivisibleNumbers.cs",
+    "projectPath": "Daily_Algoithm/2026-10-24_나누어 떨어지는 숫자 배열/DivisibleNumbers.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "68644",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/68644"
+      "problemId": "12910",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12910"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-10-23T00:02:00.000Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기",
-      "sourcePath": "Daily_Algoithm/2026-10-23_두 개 뽑아서 더하기/PairSums.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user completion after the PairSums issue and the notice that the first completion attempt had an empty source; latest main now contains the user's solution.",
-      "observedAt": "2026-10-23T07:22:35Z",
-      "observedAtMeaning": "Verification time, not the user's message creation time.",
-      "sourceBlobSha": "96f7e822d227b1bdeab172c387b3ab77a2f2e978",
-      "sourceBytes": 1445,
-      "verifiedMainHead": "4da012def2e358c2058feaf4d16a3f351cff4a48"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-10-24T00:03:08Z",
+    "completion": null
   },
   "completedProblems": [
     {
@@ -226,7 +210,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-10-23",
+    "lastIssuedLocalDate": "2026-10-24",
     "category": "배열",
     "categoryEffectiveThrough": "2026-10-25",
     "lastCategoryDecisionWeek": "2026-10-19",
