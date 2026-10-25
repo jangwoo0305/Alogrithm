@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-23_두 개 뽑아�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-24_나누어 떨어지는 숫자 배열", "2026-10-24_나누어 떨어지는 숫자 배열\DivisibleNumbers.csproj", "{D4F07037-4C12-4C5A-9D7F-621924B5CC41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-25_제일 작은 수 제거하기", "2026-10-25_제일 작은 수 제거하기\RemoveSmallest.csproj", "{C5D9248F-FEB5-4258-B042-9C826BC09E6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Debug|x64.Build.0 = Debug|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Debug|x86.Build.0 = Debug|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Release|x64.ActiveCfg = Release|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Release|x64.Build.0 = Release|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Release|x86.ActiveCfg = Release|Any CPU
+		{C5D9248F-FEB5-4258-B042-9C826BC09E6D}.Release|x86.Build.0 = Release|Any CPU
 		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4F07037-4C12-4C5A-9D7F-621924B5CC41}.Debug|x64.ActiveCfg = Debug|Any CPU
