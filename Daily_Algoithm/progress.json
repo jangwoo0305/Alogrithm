@@ -19,9 +19,25 @@
       "problemId": "12935",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12935"
     },
-    "status": "ISSUED",
+    "status": "COMPLETED",
     "issuedAt": "2026-10-25T00:05:19Z",
-    "completion": null
+    "completion": {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기",
+      "sourcePath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user completion in the connected conversation immediately after the assistant's issuance notice for the 2026-10-25 RemoveSmallest problem.",
+      "observedAt": "2026-10-25T12:18:14Z",
+      "observedAtMeaning": "Verification time, not the user's message creation time.",
+      "sourceBlobSha": "e62fdd16387a9cb8a2c93ebe3ce897cdb849e164",
+      "sourceBytes": 1037,
+      "verifiedMainHead": "767da8bfa15ebdb425289da62d6098865ac16fc4"
+    }
   },
   "completedProblems": [
     {
@@ -213,6 +229,38 @@
         "sourceBytes": 662,
         "verifiedMainHead": "767a63b07fb2f32042f52c22df00c1fdee5050c6"
       }
+    },
+    {
+      "date": "2026-10-25",
+      "title": "제일 작은 수 제거하기",
+      "folder": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기",
+      "statementPath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/제일 작은 수 제거하기.md",
+      "sourcePath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.cs",
+      "projectPath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.csproj",
+      "source": {
+        "platform": "프로그래머스",
+        "problemId": "12935",
+        "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12935"
+      },
+      "status": "COMPLETED",
+      "issuedAt": "2026-10-25T00:05:19Z",
+      "completion": {
+        "policyVersion": 2,
+        "problemId": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기",
+        "sourcePath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.cs",
+        "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+        "messageRole": "user",
+        "messageText": "완료",
+        "messageId": null,
+        "messageAt": null,
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "messageOrderEvidence": "Direct standalone user completion in the connected conversation immediately after the assistant's issuance notice for the 2026-10-25 RemoveSmallest problem.",
+        "observedAt": "2026-10-25T12:18:14Z",
+        "observedAtMeaning": "Verification time, not the user's message creation time.",
+        "sourceBlobSha": "e62fdd16387a9cb8a2c93ebe3ce897cdb849e164",
+        "sourceBytes": 1037,
+        "verifiedMainHead": "767da8bfa15ebdb425289da62d6098865ac16fc4"
+      }
     }
   ],
   "policy": {
@@ -336,6 +384,23 @@
       "sourceBlobSha": "65ad05bad76e51d1113ed147ccb92e9a6c7f233e",
       "sourceBytes": 662,
       "verifiedMainHead": "767a63b07fb2f32042f52c22df00c1fdee5050c6"
+    },
+    {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기",
+      "sourcePath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user completion in the connected conversation immediately after the assistant's issuance notice for the 2026-10-25 RemoveSmallest problem.",
+      "observedAt": "2026-10-25T12:18:14Z",
+      "observedAtMeaning": "Verification time, not the user's message creation time.",
+      "sourceBlobSha": "e62fdd16387a9cb8a2c93ebe3ce897cdb849e164",
+      "sourceBytes": 1037,
+      "verifiedMainHead": "767da8bfa15ebdb425289da62d6098865ac16fc4"
     }
   ]
 }
