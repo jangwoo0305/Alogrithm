@@ -32,3 +32,18 @@ public class Solution
         return answer;
     }
 }
+
+class Program
+{
+    static void Main()
+    {
+        Solution sol = new Solution();
+
+        int[] arr = { 5, 9, 7, 10 };
+        int divisor = 5;
+
+        int[] result = sol.solution(arr, divisor);
+
+        Console.WriteLine($"[{string.Join(", ", result)}]");
+    }
+}

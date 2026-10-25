@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class Solution1
 {
-    public int[] solution(int[] arr, int divisor) {
+    public int[] solution1(int[] arr, int divisor) {
         
         List<int> result = new List<int>();
 
