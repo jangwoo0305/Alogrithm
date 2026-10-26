@@ -8,36 +8,20 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-25",
-    "title": "제일 작은 수 제거하기",
-    "folder": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기",
-    "statementPath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/제일 작은 수 제거하기.md",
-    "sourcePath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.cs",
-    "projectPath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.csproj",
+    "date": "2026-10-26",
+    "title": "이상한 문자 만들기",
+    "folder": "Daily_Algoithm/2026-10-26_이상한 문자 만들기",
+    "statementPath": "Daily_Algoithm/2026-10-26_이상한 문자 만들기/이상한 문자 만들기.md",
+    "sourcePath": "Daily_Algoithm/2026-10-26_이상한 문자 만들기/WeirdCase.cs",
+    "projectPath": "Daily_Algoithm/2026-10-26_이상한 문자 만들기/WeirdCase.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "12935",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12935"
+      "problemId": "12930",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12930"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-10-25T00:05:19Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기",
-      "sourcePath": "Daily_Algoithm/2026-10-25_제일 작은 수 제거하기/RemoveSmallest.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user completion in the connected conversation immediately after the assistant's issuance notice for the 2026-10-25 RemoveSmallest problem.",
-      "observedAt": "2026-10-25T12:18:14Z",
-      "observedAtMeaning": "Verification time, not the user's message creation time.",
-      "sourceBlobSha": "e62fdd16387a9cb8a2c93ebe3ce897cdb849e164",
-      "sourceBytes": 1037,
-      "verifiedMainHead": "767da8bfa15ebdb425289da62d6098865ac16fc4"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-10-26T00:22:52Z",
+    "completion": null
   },
   "completedProblems": [
     {
@@ -290,10 +274,10 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-10-25",
-    "category": "배열",
-    "categoryEffectiveThrough": "2026-10-25",
-    "lastCategoryDecisionWeek": "2026-10-19",
+    "lastIssuedLocalDate": "2026-10-26",
+    "category": "문자열",
+    "categoryEffectiveThrough": "2026-11-01",
+    "lastCategoryDecisionWeek": "2026-10-26",
     "categoryDecisions": [
       {
         "weekStart": "2026-10-19",
@@ -313,6 +297,25 @@
           "messageAt": "2026-10-19T11:34:51+09:00"
         },
         "evidenceSource": "Original category question and standalone user answer visible in the connected conversation; no question message timestamp was supplied."
+      },
+      {
+        "weekStart": "2026-10-26",
+        "category": "문자열",
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "question": {
+          "messageId": null,
+          "messageRole": "assistant",
+          "text": "이번 주(10/26~11/1)에도 배열을 유지할까요, 다른 카테고리로 변경할까요?",
+          "date": "2026-10-26",
+          "messageAt": null
+        },
+        "answer": {
+          "messageId": null,
+          "messageRole": "user",
+          "messageText": "다음 카테고리로 넘어가자",
+          "messageAt": null
+        },
+        "evidenceSource": "Direct question and subsequent user answer in the connected conversation. User authorized advancing; assistant selected 문자열 as the next learning category. No message timestamps supplied."
       }
     ]
   },
