@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-25_제일 작은 �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-26_이상한 문자 만들기", "2026-10-26_이상한 문자 만들기\WeirdCase.csproj", "{B0E3B06A-E70C-4D74-A8B9-56D1A782F260}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-27_문자열 다루기 기본", "2026-10-27_문자열 다루기 기본\StringBasics.csproj", "{E34977FD-7BC4-42C2-B495-42611322AE85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Debug|x64.Build.0 = Debug|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Debug|x86.Build.0 = Debug|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Release|x64.ActiveCfg = Release|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Release|x64.Build.0 = Release|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Release|x86.ActiveCfg = Release|Any CPU
+		{E34977FD-7BC4-42C2-B495-42611322AE85}.Release|x86.Build.0 = Release|Any CPU
 		{B0E3B06A-E70C-4D74-A8B9-56D1A782F260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0E3B06A-E70C-4D74-A8B9-56D1A782F260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0E3B06A-E70C-4D74-A8B9-56D1A782F260}.Debug|x64.ActiveCfg = Debug|Any CPU

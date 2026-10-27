@@ -8,36 +8,20 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-26",
-    "title": "이상한 문자 만들기",
-    "folder": "Daily_Algoithm/2026-10-26_이상한 문자 만들기",
-    "statementPath": "Daily_Algoithm/2026-10-26_이상한 문자 만들기/이상한 문자 만들기.md",
-    "sourcePath": "Daily_Algoithm/2026-10-26_이상한 문자 만들기/WeirdCase.cs",
-    "projectPath": "Daily_Algoithm/2026-10-26_이상한 문자 만들기/WeirdCase.csproj",
+    "date": "2026-10-27",
+    "title": "문자열 다루기 기본",
+    "folder": "Daily_Algoithm/2026-10-27_문자열 다루기 기본",
+    "statementPath": "Daily_Algoithm/2026-10-27_문자열 다루기 기본/문자열 다루기 기본.md",
+    "sourcePath": "Daily_Algoithm/2026-10-27_문자열 다루기 기본/StringBasics.cs",
+    "projectPath": "Daily_Algoithm/2026-10-27_문자열 다루기 기본/StringBasics.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "12930",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12930"
+      "problemId": "12918",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12918"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-10-26T00:22:52Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-10-26_이상한 문자 만들기",
-      "sourcePath": "Daily_Algoithm/2026-10-26_이상한 문자 만들기/WeirdCase.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user completion in the connected conversation after the assistant's 2026-10-26 WeirdCase issuance notice.",
-      "observedAt": "2026-10-26T04:41:23Z",
-      "observedAtMeaning": "Verification time, not the user's message creation time.",
-      "sourceBlobSha": "c916273b753f7d4ef86888436cb0a1bb81dc1824",
-      "sourceBytes": 911,
-      "verifiedMainHead": "0cc5b1a757a747699ba07508b56ad90548769951"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-10-27T00:00:19Z",
+    "completion": null
   },
   "completedProblems": [
     {
@@ -322,7 +306,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-10-26",
+    "lastIssuedLocalDate": "2026-10-27",
     "category": "문자열",
     "categoryEffectiveThrough": "2026-11-01",
     "lastCategoryDecisionWeek": "2026-10-26",
