@@ -8,36 +8,20 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-10-27",
-    "title": "문자열 다루기 기본",
-    "folder": "Daily_Algoithm/2026-10-27_문자열 다루기 기본",
-    "statementPath": "Daily_Algoithm/2026-10-27_문자열 다루기 기본/문자열 다루기 기본.md",
-    "sourcePath": "Daily_Algoithm/2026-10-27_문자열 다루기 기본/StringBasics.cs",
-    "projectPath": "Daily_Algoithm/2026-10-27_문자열 다루기 기본/StringBasics.csproj",
+    "date": "2026-10-30",
+    "title": "문자열 내림차순으로 배치하기",
+    "folder": "Daily_Algoithm/2026-10-30_문자열 내림차순으로 배치하기",
+    "statementPath": "Daily_Algoithm/2026-10-30_문자열 내림차순으로 배치하기/문자열 내림차순으로 배치하기.md",
+    "sourcePath": "Daily_Algoithm/2026-10-30_문자열 내림차순으로 배치하기/DescendingString.cs",
+    "projectPath": "Daily_Algoithm/2026-10-30_문자열 내림차순으로 배치하기/DescendingString.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "12918",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12918"
+      "problemId": "12917",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12917"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-10-27T00:00:19Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-10-27_문자열 다루기 기본",
-      "sourcePath": "Daily_Algoithm/2026-10-27_문자열 다루기 기본/StringBasics.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user completion after the issuance notice for StringBasics in this connected conversation.",
-      "observedAt": "2026-10-29T05:43:51Z",
-      "observedAtMeaning": "Verification time, not message creation time.",
-      "sourceBlobSha": "dcf015e762d585d69cfa3917244ab43a29fb8a7d",
-      "sourceBytes": 699,
-      "verifiedMainHead": "6f598c073091d1b7dd146946ee86b43e8f8fe75d"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-10-29T23:58:08Z",
+    "completion": null
   },
   "completedProblems": [
     {
@@ -354,7 +338,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-10-27",
+    "lastIssuedLocalDate": "2026-10-30",
     "category": "문자열",
     "categoryEffectiveThrough": "2026-11-01",
     "lastCategoryDecisionWeek": "2026-10-26",
