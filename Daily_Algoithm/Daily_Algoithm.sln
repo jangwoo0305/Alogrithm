@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-27_문자열 다루
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-10-30_문자열 내림차순으로 배치하기", "2026-10-30_문자열 내림차순으로 배치하기\DescendingString.csproj", "{7824E80C-4B82-4831-9A45-AB3586C9A712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-02_올바른 괄호", "2026-11-02_올바른 괄호\ValidParentheses.csproj", "{DAC54C1D-D079-47C7-932B-80F130920D06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Debug|x64.Build.0 = Debug|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Debug|x86.Build.0 = Debug|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Release|x64.ActiveCfg = Release|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Release|x64.Build.0 = Release|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Release|x86.ActiveCfg = Release|Any CPU
+		{DAC54C1D-D079-47C7-932B-80F130920D06}.Release|x86.Build.0 = Release|Any CPU
 		{7824E80C-4B82-4831-9A45-AB3586C9A712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7824E80C-4B82-4831-9A45-AB3586C9A712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7824E80C-4B82-4831-9A45-AB3586C9A712}.Debug|x64.ActiveCfg = Debug|Any CPU
