@@ -8,36 +8,20 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-11-02",
-    "title": "올바른 괄호",
-    "folder": "Daily_Algoithm/2026-11-02_올바른 괄호",
-    "statementPath": "Daily_Algoithm/2026-11-02_올바른 괄호/올바른 괄호.md",
-    "sourcePath": "Daily_Algoithm/2026-11-02_올바른 괄호/ValidParentheses.cs",
-    "projectPath": "Daily_Algoithm/2026-11-02_올바른 괄호/ValidParentheses.csproj",
+    "date": "2026-11-04",
+    "title": "기능개발",
+    "folder": "Daily_Algoithm/2026-11-04_기능개발",
+    "statementPath": "Daily_Algoithm/2026-11-04_기능개발/기능개발.md",
+    "sourcePath": "Daily_Algoithm/2026-11-04_기능개발/FeatureDeployment.cs",
+    "projectPath": "Daily_Algoithm/2026-11-04_기능개발/FeatureDeployment.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "12909",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/12909"
+      "problemId": "42586",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42586"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-11-02T00:14:25Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-11-02_올바른 괄호",
-      "sourcePath": "Daily_Algoithm/2026-11-02_올바른 괄호/ValidParentheses.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user completion after the 2026-11-02 ValidParentheses issuance notice in this connected conversation.",
-      "observedAt": "2026-11-03T04:03:18Z",
-      "observedAtMeaning": "Verification time, not message creation time.",
-      "sourceBlobSha": "398bf86513d13d3aec3b7a16df5fa08993b0a21b",
-      "sourceBytes": 1206,
-      "verifiedMainHead": "51f4f31adbc2b7fa21d00d0c8a85539742d409f0"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-11-04T00:03:00Z",
+    "completion": null
   },
   "completedProblems": [
     {
@@ -418,7 +402,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-11-02",
+    "lastIssuedLocalDate": "2026-11-04",
     "category": "스택·큐",
     "categoryEffectiveThrough": "2026-11-08",
     "lastCategoryDecisionWeek": "2026-11-02",
