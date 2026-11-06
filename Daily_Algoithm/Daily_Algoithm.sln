@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-02_올바른 괄호
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-04_기능개발", "2026-11-04_기능개발\FeatureDeployment.csproj", "{A8D91E35-BC93-42F6-B864-01F7528A1D70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-06_프로세스", "2026-11-06_프로세스\ProcessQueue.csproj", "{5697B920-EE7D-4BA1-92E5-203BB7C1246A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Debug|x64.Build.0 = Debug|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Debug|x86.Build.0 = Debug|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Release|x64.ActiveCfg = Release|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Release|x64.Build.0 = Release|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Release|x86.ActiveCfg = Release|Any CPU
+		{5697B920-EE7D-4BA1-92E5-203BB7C1246A}.Release|x86.Build.0 = Release|Any CPU
 		{A8D91E35-BC93-42F6-B864-01F7528A1D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A8D91E35-BC93-42F6-B864-01F7528A1D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8D91E35-BC93-42F6-B864-01F7528A1D70}.Debug|x64.ActiveCfg = Debug|Any CPU
