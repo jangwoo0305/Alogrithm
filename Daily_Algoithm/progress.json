@@ -8,36 +8,19 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-11-06",
-    "title": "프로세스",
-    "folder": "Daily_Algoithm/2026-11-06_프로세스",
-    "statementPath": "Daily_Algoithm/2026-11-06_프로세스/프로세스.md",
-    "sourcePath": "Daily_Algoithm/2026-11-06_프로세스/ProcessQueue.cs",
-    "projectPath": "Daily_Algoithm/2026-11-06_프로세스/ProcessQueue.csproj",
+    "date": "2026-11-07",
+    "title": "다리를 지나는 트럭",
+    "folder": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭",
+    "statementPath": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭/다리를 지나는 트럭.md",
+    "sourcePath": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭/TruckBridge.cs",
+    "projectPath": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭/TruckBridge.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "42587",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42587"
+      "problemId": "42583",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42583"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-11-06T00:03:55Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-11-06_프로세스",
-      "sourcePath": "Daily_Algoithm/2026-11-06_프로세스/ProcessQueue.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user completion after the 2026-11-06 ProcessQueue issuance notice in this connected conversation.",
-      "observedAt": "2026-11-06T11:18:53Z",
-      "observedAtMeaning": "Verification time, not message creation time.",
-      "sourceBlobSha": "9c786bc2c21c5563e8d7b5e31c81ec7f62b958d3",
-      "sourceBytes": 1367,
-      "verifiedMainHead": "b6d89e09baa86b0a709a65a7314717b85e7c87b7"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-11-07T00:03:32Z"
   },
   "completedProblems": [
     {
@@ -482,7 +465,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-11-06",
+    "lastIssuedLocalDate": "2026-11-07",
     "category": "스택·큐",
     "categoryEffectiveThrough": "2026-11-08",
     "lastCategoryDecisionWeek": "2026-11-02",
