@@ -8,35 +8,19 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-11-07",
-    "title": "다리를 지나는 트럭",
-    "folder": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭",
-    "statementPath": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭/다리를 지나는 트럭.md",
-    "sourcePath": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭/TruckBridge.cs",
-    "projectPath": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭/TruckBridge.csproj",
+    "date": "2026-11-11",
+    "title": "주식가격",
+    "folder": "Daily_Algoithm/2026-11-11_주식가격",
+    "statementPath": "Daily_Algoithm/2026-11-11_주식가격/주식가격.md",
+    "sourcePath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.cs",
+    "projectPath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "42583",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42583"
+      "problemId": "42584",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=csharp"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-11-07T00:03:32Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭",
-      "sourcePath": "Daily_Algoithm/2026-11-07_다리를 지나는 트럭/TruckBridge.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user message after the TruckBridge issuance notice.",
-      "observedAt": "2026-11-10T07:07:28.219Z",
-      "sourceBlobSha": "e30f8e3297d7ad26def36385112e531143d8382c",
-      "sourceBytes": 1380,
-      "verifiedMainHead": "a9bc1f7d9721ea252c5225526fac25501a1613a6"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-11-11T04:08:20.981Z"
   },
   "completedProblems": [
     {
@@ -512,10 +496,10 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-11-07",
+    "lastIssuedLocalDate": "2026-11-11",
     "category": "스택·큐",
-    "categoryEffectiveThrough": "2026-11-08",
-    "lastCategoryDecisionWeek": "2026-11-02",
+    "categoryEffectiveThrough": "2026-11-15",
+    "lastCategoryDecisionWeek": "2026-11-09",
     "categoryDecisions": [
       {
         "weekStart": "2026-10-19",
@@ -573,6 +557,25 @@
           "messageAt": null
         },
         "evidenceSource": "Direct question followed by user authorization to change category; assistant selected 스택·큐. No message timestamps supplied."
+      },
+      {
+        "weekStart": "2026-11-09",
+        "category": "스택·큐",
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "question": {
+          "messageId": null,
+          "messageRole": "assistant",
+          "text": "이번 주(11/9~11/15)는 **스택·큐를 유지할까요, 다른 카테고리로 넘어갈까요?** 답변을 받으면 그날 새 문제 한 개를 등록하겠습니다.",
+          "date": "2026-11-11",
+          "messageAt": null
+        },
+        "answer": {
+          "messageId": null,
+          "messageRole": "user",
+          "messageText": "유지",
+          "messageAt": null
+        },
+        "evidenceSource": "Direct user answer after the weekly category question."
       }
     ]
   },
