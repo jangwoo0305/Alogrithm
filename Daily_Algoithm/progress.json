@@ -19,8 +19,24 @@
       "problemId": "42584",
       "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=csharp"
     },
-    "status": "ISSUED",
-    "issuedAt": "2026-11-11T04:08:20.981Z"
+    "status": "COMPLETED",
+    "issuedAt": "2026-11-11T04:08:20.981Z",
+    "completion": {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-11-11_주식가격",
+      "sourcePath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user message after the 2026-11-11 StockPrices issuance notice.",
+      "observedAt": "2026-11-11T06:08:20.297Z",
+      "sourceBlobSha": "250a4ea19e81a1580bbb3525ec876633a9943e49",
+      "sourceBytes": 451,
+      "verifiedMainHead": "9d959ea3fa0636196cd28a541dc684d47df0c97b"
+    }
   },
   "completedProblems": [
     {
@@ -467,6 +483,37 @@
         "sourceBytes": 1380,
         "verifiedMainHead": "a9bc1f7d9721ea252c5225526fac25501a1613a6"
       }
+    },
+    {
+      "date": "2026-11-11",
+      "title": "주식가격",
+      "folder": "Daily_Algoithm/2026-11-11_주식가격",
+      "statementPath": "Daily_Algoithm/2026-11-11_주식가격/주식가격.md",
+      "sourcePath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.cs",
+      "projectPath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.csproj",
+      "source": {
+        "platform": "프로그래머스",
+        "problemId": "42584",
+        "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=csharp"
+      },
+      "status": "COMPLETED",
+      "issuedAt": "2026-11-11T04:08:20.981Z",
+      "completion": {
+        "policyVersion": 2,
+        "problemId": "Daily_Algoithm/2026-11-11_주식가격",
+        "sourcePath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.cs",
+        "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+        "messageRole": "user",
+        "messageText": "완료",
+        "messageId": null,
+        "messageAt": null,
+        "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+        "messageOrderEvidence": "Direct standalone user message after the 2026-11-11 StockPrices issuance notice.",
+        "observedAt": "2026-11-11T06:08:20.297Z",
+        "sourceBlobSha": "250a4ea19e81a1580bbb3525ec876633a9943e49",
+        "sourceBytes": 451,
+        "verifiedMainHead": "9d959ea3fa0636196cd28a541dc684d47df0c97b"
+      }
     }
   ],
   "policy": {
@@ -782,6 +829,22 @@
       "sourceBlobSha": "e30f8e3297d7ad26def36385112e531143d8382c",
       "sourceBytes": 1380,
       "verifiedMainHead": "a9bc1f7d9721ea252c5225526fac25501a1613a6"
+    },
+    {
+      "policyVersion": 2,
+      "problemId": "Daily_Algoithm/2026-11-11_주식가격",
+      "sourcePath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.cs",
+      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
+      "messageRole": "user",
+      "messageText": "완료",
+      "messageId": null,
+      "messageAt": null,
+      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
+      "messageOrderEvidence": "Direct standalone user message after the 2026-11-11 StockPrices issuance notice.",
+      "observedAt": "2026-11-11T06:08:20.297Z",
+      "sourceBlobSha": "250a4ea19e81a1580bbb3525ec876633a9943e49",
+      "sourceBytes": 451,
+      "verifiedMainHead": "9d959ea3fa0636196cd28a541dc684d47df0c97b"
     }
   ]
 }
