@@ -8,35 +8,19 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-11-11",
-    "title": "주식가격",
-    "folder": "Daily_Algoithm/2026-11-11_주식가격",
-    "statementPath": "Daily_Algoithm/2026-11-11_주식가격/주식가격.md",
-    "sourcePath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.cs",
-    "projectPath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.csproj",
+    "date": "2026-11-12",
+    "title": "괄호 회전하기",
+    "folder": "Daily_Algoithm/2026-11-12_괄호 회전하기",
+    "statementPath": "Daily_Algoithm/2026-11-12_괄호 회전하기/괄호 회전하기.md",
+    "sourcePath": "Daily_Algoithm/2026-11-12_괄호 회전하기/BracketRotation.cs",
+    "projectPath": "Daily_Algoithm/2026-11-12_괄호 회전하기/BracketRotation.csproj",
     "source": {
       "platform": "프로그래머스",
-      "problemId": "42584",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=csharp"
+      "problemId": "76502",
+      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=csharp"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-11-11T04:08:20.981Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-11-11_주식가격",
-      "sourcePath": "Daily_Algoithm/2026-11-11_주식가격/StockPrices.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user message after the 2026-11-11 StockPrices issuance notice.",
-      "observedAt": "2026-11-11T06:08:20.297Z",
-      "sourceBlobSha": "250a4ea19e81a1580bbb3525ec876633a9943e49",
-      "sourceBytes": 451,
-      "verifiedMainHead": "9d959ea3fa0636196cd28a541dc684d47df0c97b"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-11-12T00:03:02.392Z"
   },
   "completedProblems": [
     {
@@ -543,7 +527,7 @@
     }
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-11-11",
+    "lastIssuedLocalDate": "2026-11-12",
     "category": "스택·큐",
     "categoryEffectiveThrough": "2026-11-15",
     "lastCategoryDecisionWeek": "2026-11-09",
