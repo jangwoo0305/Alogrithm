@@ -49,7 +49,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-11_주식가격", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-12_괄호 회전하기", "2026-11-12_괄호 회전하기\BracketRotation.csproj", "{5904B017-60F2-4FAF-A23C-0B5AD906E39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-23_완주하지 못한 선수", "2026-11-23_완주하지 못한 선수\UnfinishedRunner.csproj", "{A37F65C8-718C-45B1-B130-EA6C891F2374}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-24_문자열 집합", "2026-11-24_문자열 집합\StringSet.csproj", "{A37F65C8-718C-45B1-B130-EA6C891F2374}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

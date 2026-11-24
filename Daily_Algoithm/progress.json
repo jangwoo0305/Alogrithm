@@ -8,19 +8,19 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-11-23",
-    "title": "완주하지 못한 선수",
-    "folder": "Daily_Algoithm/2026-11-23_완주하지 못한 선수",
-    "statementPath": "Daily_Algoithm/2026-11-23_완주하지 못한 선수/완주하지 못한 선수.md",
-    "sourcePath": "Daily_Algoithm/2026-11-23_완주하지 못한 선수/UnfinishedRunner.cs",
-    "projectPath": "Daily_Algoithm/2026-11-23_완주하지 못한 선수/UnfinishedRunner.csproj",
+    "date": "2026-11-24",
+    "title": "문자열 집합",
+    "folder": "Daily_Algoithm/2026-11-24_문자열 집합",
+    "statementPath": "Daily_Algoithm/2026-11-24_문자열 집합/문자열 집합.md",
+    "sourcePath": "Daily_Algoithm/2026-11-24_문자열 집합/StringSet.cs",
+    "projectPath": "Daily_Algoithm/2026-11-24_문자열 집합/StringSet.csproj",
     "source": {
-      "platform": "프로그래머스",
-      "problemId": "42576",
-      "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42576"
+      "platform": "백준",
+      "problemId": "14425",
+      "url": "https://acmicpc.net/problem/14425"
     },
     "status": "ISSUED",
-    "issuedAt": "2026-11-23T00:46:52.610Z"
+    "issuedAt": "2026-11-24T02:34:44.685Z"
   },
   "completedProblems": [
     {
@@ -555,10 +555,11 @@
       "completedState": "COMPLETED is terminal for that problem; verify matching evidence and current nonempty source, then advance without duplicating history.",
       "receiptWrite": "On direct completion, persist a completion-only atomic commit immediately. On scheduled issuance, advance state and create exactly one new problem in one separate atomic commit.",
       "blocking": "Missing optional metadata alone must not block advancement, request repeated completion, or disable the task."
-    }
+    },
+    "requireOfficialCSharpSubmission": true
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-11-23",
+    "lastIssuedLocalDate": "2026-11-24",
     "category": "해시",
     "categoryEffectiveThrough": "2026-11-29",
     "lastCategoryDecisionWeek": "2026-11-23",
@@ -657,6 +658,31 @@
           "messageAt": null
         },
         "evidenceSource": "Direct user answer in the connected conversation after the pending category question. The unanswered question carried across the week boundary without repetition; user authorized advancing and assistant selected 해시 for the current week."
+      }
+    ],
+    "problemReplacements": [
+      {
+        "previousProblem": {
+          "date": "2026-11-23",
+          "title": "완주하지 못한 선수",
+          "folder": "Daily_Algoithm/2026-11-23_완주하지 못한 선수",
+          "statementPath": "Daily_Algoithm/2026-11-23_완주하지 못한 선수/완주하지 못한 선수.md",
+          "sourcePath": "Daily_Algoithm/2026-11-23_완주하지 못한 선수/UnfinishedRunner.cs",
+          "projectPath": "Daily_Algoithm/2026-11-23_완주하지 못한 선수/UnfinishedRunner.csproj",
+          "source": {
+            "platform": "프로그래머스",
+            "problemId": "42576",
+            "url": "https://school.programmers.co.kr/learn/courses/30/lessons/42576"
+          },
+          "status": "ISSUED",
+          "issuedAt": "2026-11-23T00:46:52.610Z"
+        },
+        "replacementProblemId": "Daily_Algoithm/2026-11-24_문자열 집합",
+        "reason": "User requested removing the unsupported-C# problem and replacing it with an easy hash problem supporting official C# submission.",
+        "messageRole": "user",
+        "messageText": "공식 C# 제출이 가능한 다른 해시 문제. 첫 해시 문제이므로 쉬운 문제.",
+        "messageAt": null,
+        "observedAt": "2026-11-24T02:34:44.685Z"
       }
     ]
   },
