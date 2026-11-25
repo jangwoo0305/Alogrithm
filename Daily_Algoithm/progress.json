@@ -8,35 +8,19 @@
     "acceptedInThread": "current Codex automation thread"
   },
   "currentProblem": {
-    "date": "2026-11-24",
-    "title": "문자열 집합",
-    "folder": "Daily_Algoithm/2026-11-24_문자열 집합",
-    "statementPath": "Daily_Algoithm/2026-11-24_문자열 집합/문자열 집합.md",
-    "sourcePath": "Daily_Algoithm/2026-11-24_문자열 집합/StringSet.cs",
-    "projectPath": "Daily_Algoithm/2026-11-24_문자열 집합/StringSet.csproj",
+    "date": "2026-11-25",
+    "title": "숫자 카드",
+    "folder": "Daily_Algoithm/2026-11-25_숫자 카드",
+    "statementPath": "Daily_Algoithm/2026-11-25_숫자 카드/숫자 카드.md",
+    "sourcePath": "Daily_Algoithm/2026-11-25_숫자 카드/NumberCards.cs",
+    "projectPath": "Daily_Algoithm/2026-11-25_숫자 카드/NumberCards.csproj",
     "source": {
       "platform": "백준",
-      "problemId": "14425",
-      "url": "https://acmicpc.net/problem/14425"
+      "problemId": "10815",
+      "url": "https://acmicpc.net/problem/10815"
     },
-    "status": "COMPLETED",
-    "issuedAt": "2026-11-24T02:34:44.685Z",
-    "completion": {
-      "policyVersion": 2,
-      "problemId": "Daily_Algoithm/2026-11-24_문자열 집합",
-      "sourcePath": "Daily_Algoithm/2026-11-24_문자열 집합/StringSet.cs",
-      "verification": "DIRECT_USER_MESSAGE_AND_NONEMPTY_SOURCE",
-      "messageRole": "user",
-      "messageText": "완료",
-      "messageId": null,
-      "messageAt": null,
-      "conversationId": "6ad1953a-ba4c-83ec-8163-b99f5364d738",
-      "messageOrderEvidence": "Direct standalone user message '완료' after the 2026-11-24 문자열 집합 replacement issuance and subsequent StringSet solution discussion in this connected conversation.",
-      "observedAt": "2026-11-24T07:39:11.598Z",
-      "sourceBlobSha": "67ae5e408173c564baa8102126c3939340a7414c",
-      "sourceBytes": 750,
-      "verifiedMainHead": "72e22f69966d7fa26474253ff572151fa651e483"
-    }
+    "status": "ISSUED",
+    "issuedAt": "2026-11-25T00:03:00.328Z"
   },
   "completedProblems": [
     {
@@ -606,7 +590,7 @@
     "requireOfficialCSharpSubmission": true
   },
   "workflow": {
-    "lastIssuedLocalDate": "2026-11-24",
+    "lastIssuedLocalDate": "2026-11-25",
     "category": "해시",
     "categoryEffectiveThrough": "2026-11-29",
     "lastCategoryDecisionWeek": "2026-11-23",
