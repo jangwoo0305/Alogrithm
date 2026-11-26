@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-24_문자열 집합
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-25_숫자 카드", "2026-11-25_숫자 카드\NumberCards.csproj", "{6CE13AC4-BD25-4F0E-81E7-BCA3DF067582}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2026-11-26_회사에 있는 사람", "2026-11-26_회사에 있는 사람\OfficePresence.csproj", "{64AC2E98-26E4-44DC-B621-A57D084EC903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Debug|x64.Build.0 = Debug|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Debug|x86.Build.0 = Debug|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Release|x64.ActiveCfg = Release|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Release|x64.Build.0 = Release|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Release|x86.ActiveCfg = Release|Any CPU
+		{64AC2E98-26E4-44DC-B621-A57D084EC903}.Release|x86.Build.0 = Release|Any CPU
 		{6CE13AC4-BD25-4F0E-81E7-BCA3DF067582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6CE13AC4-BD25-4F0E-81E7-BCA3DF067582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE13AC4-BD25-4F0E-81E7-BCA3DF067582}.Debug|x64.ActiveCfg = Debug|Any CPU
